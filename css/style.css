@@ -7,12 +7,14 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
-    background-color: #eee;
+    background-color:#F6F8F9;
+    padding-bottom: 20px;
+    
   }
   #top-header{
     background-color: white;
     padding-bottom: 10px;
-    padding-top: 10px;
+    
   }
   #logo{
     background-image: url(../img/logo\ copia.png);
@@ -21,13 +23,24 @@ body {
    background-repeat: no-repeat;
   
   }
+  .button2{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-left: 190px;
+    margin-right: 190px;
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-color: #f6f8f9;
+    border-bottom-width: 2px;
+    
+  }
   h1{
    vertical-align: top;
    margin-left: 55px;
   }
   .container{
-    padding-left: 22%;
-    padding-top: 5%;
+    padding-left 
+    
     
   }
   .bt{
