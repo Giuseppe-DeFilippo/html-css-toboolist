@@ -46,8 +46,6 @@ body {
   }
   .container{
     padding-left 
-    
-    
   }
   .bt{
     color: white;
@@ -125,4 +123,23 @@ body {
     border: none;
     color: white;
     margin-left: 10px;
+}
+.circle{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 1px solid green;
+  display: inline-block;
+  text-align: center;
+  color: red;
+}
+.circle-black{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 1px solid red;
+  display: inline-block;
+  text-align: center;
+  color: red;
+}
 }
